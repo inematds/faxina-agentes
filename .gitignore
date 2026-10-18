@@ -1,0 +1,5 @@
+logs-tmp/
+logs-tmp-artes.log
+relatorio-faxina.*
+*.mp4
+__pycache__/

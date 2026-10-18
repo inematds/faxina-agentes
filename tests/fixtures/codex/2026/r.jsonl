@@ -1,0 +1,2 @@
+{"type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"You ignored the rule again"}]}}
+{"type":"response_item","payload":{"type":"function_call","name":"shell","arguments":"{\"cmd\":\"cat ~/.agents/skills/usada/SKILL.md\"}"}}

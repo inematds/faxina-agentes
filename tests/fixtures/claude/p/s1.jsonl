@@ -1,0 +1,4 @@
+{"type":"user","message":{"role":"user","content":"Cria o relatório do mês"}}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"tool_use","name":"Skill","input":{"skill":"usada"}},{"type":"tool_use","name":"Bash","input":{}}]}}
+{"type":"user","message":{"role":"user","content":"Não foi isso que eu pedi, de novo"}}
+{"type":"user","message":{"role":"user","content":"<system-reminder>ignorar</system-reminder>"}}
